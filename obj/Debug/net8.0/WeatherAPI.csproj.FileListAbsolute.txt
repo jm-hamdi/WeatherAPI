@@ -31,3 +31,4 @@
 /Users/JM/Desktop/WeatherAPI/obj/Debug/net8.0/WeatherAPI.pdb
 /Users/JM/Desktop/WeatherAPI/obj/Debug/net8.0/WeatherAPI.genruntimeconfig.cache
 /Users/JM/Desktop/WeatherAPI/obj/Debug/net8.0/ref/WeatherAPI.dll
+/Users/JM/Desktop/WeatherAPI/obj/Debug/net8.0/WeatherAPI.sourcelink.json
